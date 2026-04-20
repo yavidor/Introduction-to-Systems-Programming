@@ -1,0 +1,34 @@
+\documentclass[12pt, titlepage]{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage[bidi=basic]{babel}
+\babelprovide[main,import]{hebrew}
+\babelfont[hebrew]{rm}{Hadasim CLM}
+\babelfont[hebrew]{sf}{Miriam Mono CLM}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{titlesec}
+\title{מבוא לתכנות מערכות - 02340124 \\ תרגיל בית 0}
+\author{יונתן אבידור - 214269565}
+\titleformat{\section}{\Large\sffamily\bfseries}{\thesection}{1em}{}
+\begin{document}
+\maketitle
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot[L]{\text{214269565}}
+\part*{3.1}
+\includegraphics[width=\textwidth]{pwd-ls}
+\part*{3.2}
+\includegraphics[width=\textwidth]{cat-groceries}
+\part*{3.3}
+\includegraphics[width=\textwidth]{grep-milk}
+\part*{3.4}
+\begin{itemize}
+    \item[\circ] touch\\
+        הפקודה touch משנה את זמן השינוי האחרון של קבצים, ואם הפקודה נקראת עם קבצים לא קיימים, היא יוצרת אותם.
+    \item[\circ] zip
+
+\end{itemize}
+\end{document}
