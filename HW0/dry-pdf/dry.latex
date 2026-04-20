@@ -59,4 +59,7 @@
             \item[f] פורמט שונה למבנה של הזמן, נגיד להראות במילי-שניות בלבד
         \end{itemize}
 \end{enumerate}
+\part*{4.1.1}
+\includegraphics[width=\textwidth]{gcc-fail}\\
+ההידור נכשל עקב תקלה בפונקציה $main$ בשורה $120$, שורה זו נגמרת עם printf ללא נקודה-פסיק (;)
 \end{document}
