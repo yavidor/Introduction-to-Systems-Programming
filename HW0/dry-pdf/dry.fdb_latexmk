@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1776706590.8639 "dry.latex" "dry.pdf" "dry" 1776706591.60396 0
+["lualatex"] 1776725525.79577 "dry.latex" "dry.pdf" "dry" 1776725526.56088 0
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-bold.luc" 1770037307.49007 54495 6d1e04677a40f79ab14ff2024faac8eb ""
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-boldoblique.luc" 1770037307.48007 55799 5fef217971130cbc6fbfe77ec1f0a8c2 ""
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-regular.luc" 1770037307.46907 54551 36cc254eefb9c32f16f693bfada56f84 ""
@@ -30,7 +30,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm" 1136768653 1300 53d07721103816e093902637bc167021 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm" 1136768653 1120 2b3f9b25605010c69bc328bea6ac000f ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1775001600 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel-bidi-basic.lua" 1676321701 12512 69bf7efe7b9e6602824eb967f20fce2c ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel-ca-hebrew.tex" 1674507072 7458 14619a0e27c5fc211b0699bd887327eb ""
@@ -63,6 +62,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/base/ltluatex.lua" 1775001600 24386 83c652de0f414f3e99ca4bc3359bc2f2 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1775001600 8449 c314623021fbddd0180c05345324933c ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd" 1775001600 2430 8418b3f1835e588625becbcac4dbce56 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty" 1642282977 150585 e7858b29d466f38afac90db54bb48055 ""
@@ -127,8 +127,8 @@
   "/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1443997592 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775907030.30225 4602002 62dba5fc29055c16380d7393a2adb07a ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1775906709 11873968 150a8b2484ec4a38e5501e952b73c379 ""
-  "dry.aux" 1776706591.53908 111 bc6e94c9ab831af4b8a7622144a14037 "lualatex"
-  "dry.latex" 1776706590.21208 908 ac70f2c207a8db469bef70f0ba645761 ""
+  "dry.aux" 1776725526.49939 111 0876e6bef0fe27a1e3efde41ece49d45 "lualatex"
+  "dry.latex" 1776725524.82738 3220 258e6a7209527c92ae18de1e7d9e5658 ""
   "images//cat-groceries.png" 1776705408.8397 36045 0c2ded5e5470c95647e22b2be6fba5c5 ""
   "images//grep-milk.png" 1776705992.24682 12021 e818dc5289b413eddb412f420910d15d ""
   "images//pwd-ls.png" 1776700513.27916 55939 07d2e01941ca08d23feaf1327dc0a672 ""

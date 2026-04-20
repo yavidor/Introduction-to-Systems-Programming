@@ -3,8 +3,9 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{fancyhdr}
+\usepackage[shortlabels]{enumitem}
 \usepackage[bidi=basic]{babel}
-\babelprovide[main,import]{hebrew}
+\babelprovide[main,import,Alph=letters]{hebrew}
 \babelfont[hebrew]{rm}{Hadasim CLM}
 \babelfont[hebrew]{sf}{Miriam Mono CLM}
 \usepackage{graphicx}
@@ -25,10 +26,37 @@
 \part*{3.3}
 \includegraphics[width=\textwidth]{grep-milk}
 \part*{3.4}
-\begin{itemize}
-    \item[\circ] touch\\
-        הפקודה touch משנה את זמן השינוי האחרון של קבצים, ואם הפקודה נקראת עם קבצים לא קיימים, היא יוצרת אותם.
-    \item[\circ] zip
-
-\end{itemize}
+\begin{enumerate}[A.]
+    \item touch\\
+        הפקודה touch משנה את זמן השינוי האחרון של קבצים, ואם הפקודה נקראת עם קבצים לא קיימים, היא יוצרת אותם.\\
+        דגלים מעניינים:
+        \begin{itemize}
+            \item[d] לתת חתימת זמן שהיא לא מעכשיו
+        \end{itemize}
+    \item zip\\
+        הפקודה zip הופכת מספר קבצים לקובץ אחד שגודלו (לרוב) קטן מסך גודלי הקבצים שהתקבלו כקלט המכונה "ארכיון"\\
+        דגלים מעניינים:
+        \begin{itemize}
+            \item[e] מצפין את הארכיון באמצעות סיסמה
+        \end{itemize}
+    \item nano\\
+        nano הוא עורך הטקסט הפשוט ביותר בטרמינל, ולפעמים היחיד הזמין במכונה חדשה או מינימלית. שימוש בפקודה יכניס את המשתמש לממשק, על מנת לצאת ממנו יש ללחוץ קונטרול+איקס\\
+        אין דגלים מעניינים...
+    \item cut\\
+        cut מוציאה חלקים מסויימים מכל שורה לפי מבנה. למשל את המילה השנייה בכל שורה או החמישית עד השמינית. אפשר לבחור באיזה תו להשתמש על מנת להפריד בין מילים (או שדות, כפי שזה נקרא שם)\\
+        דגלים מעניינים:
+        \begin{itemize}
+            \item[f] בחירה של שדות ספציפיים
+            \item[d] שינוי התו המפריד בין שדות
+        \end{itemize}
+    \item time\\
+        time מודדת את הזמן שלוקח לפעולה להתבצע, בחלוקה לזמן שנלקח על ידי המעבד וזמן של פעולות המערכת\\
+        על מנת להשתמש בפקודה יש לכתוב time ואז את הפקודה אשר אותה רוצים למדוד
+        דגלים מעניינים:
+        \begin{itemize}
+            \item[v] מידע נוסף על הריצה
+            \item[o] במקום להדפיס את המידע לstderr, כותב לקובץ
+            \item[f] פורמט שונה למבנה של הזמן, נגיד להראות במילי-שניות בלבד
+        \end{itemize}
+\end{enumerate}
 \end{document}
