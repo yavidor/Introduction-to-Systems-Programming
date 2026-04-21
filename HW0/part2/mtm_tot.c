@@ -19,17 +19,18 @@ int main() {
   scanf("%d", &size);
   if (size <= 0) {
     printf("Invalid size\n");
-    return 1;
+    return 0;
   }
   int *nums = (int *)malloc(sizeof(int) * size);
   if (nums == NULL) {
-    return 1;
+    return 0;
   }
   printf("Enter numbers:\n");
   for (int i = 0; i < size; i++) {
     if (scanf("%d", nums + i) != 1) {
       printf("Invalid number\n");
-      return 1;
+      free(nums);
+      return 0;
     }
   }
   int counter = 0;
