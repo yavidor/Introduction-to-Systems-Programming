@@ -110,6 +110,7 @@ void freeWords(char** words, int size) {
 			free(words[i]);
 		}
 	}
+	free(words);
 }
 
 int main() {
