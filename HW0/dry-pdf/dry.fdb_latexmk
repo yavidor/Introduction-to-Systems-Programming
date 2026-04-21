@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1776725993.91405 "dry.latex" "dry.pdf" "dry" 1776725994.647 0
+["lualatex"] 1776775587.44575 "dry.latex" "dry.pdf" "dry" 1776775589.0293 0
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-bold.luc" 1770037307.49007 54495 6d1e04677a40f79ab14ff2024faac8eb ""
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-boldoblique.luc" 1770037307.48007 55799 5fef217971130cbc6fbfe77ec1f0a8c2 ""
   "/home/yavidor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/hadasimclm-regular.luc" 1770037307.46907 54551 36cc254eefb9c32f16f693bfada56f84 ""
@@ -136,8 +136,8 @@
   "/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1443997592 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775907030.30225 4602002 62dba5fc29055c16380d7393a2adb07a ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1775906709 11873968 150a8b2484ec4a38e5501e952b73c379 ""
-  "dry.aux" 1776725994.58289 111 0876e6bef0fe27a1e3efde41ece49d45 "lualatex"
-  "dry.latex" 1776725993.4678 3429 1e7a60931fbfa2832990f6efb03f6afc ""
+  "dry.aux" 1776775588.87912 111 0876e6bef0fe27a1e3efde41ece49d45 "lualatex"
+  "dry.latex" 1776775576.84573 3704 aabfacfee863fa958e32b3d5de00715b ""
   "images//cat-groceries.png" 1776705408.8397 36045 0c2ded5e5470c95647e22b2be6fba5c5 ""
   "images//gcc-fail.png" 1776725844.29067 40334 483e646975500b54c2f5f7345cb0dc93 ""
   "images//grep-milk.png" 1776705992.24682 12021 e818dc5289b413eddb412f420910d15d ""
